@@ -12,4 +12,4 @@ If any of the input instructions do not conform to these rules, an error message
 
 The input instructions should be saved in a text file "instructions.txt" in the same folder as the executable RobotApplication.exe. The output (showing the final location of each robot in the arena) will be automatically saved in "output.txt".
 
-Simply run the executable file [RobotApplication/bin/Release] to update the output.
+Simply run the executable file [in RobotApplication/bin/Release] to update the output.
